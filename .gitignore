@@ -130,3 +130,6 @@ dmypy.json
 
 # Instructions folder
 Instructions/
+
+# VS Code settings folder
+.vscode/
